@@ -52,3 +52,9 @@ logs/
 
 # remove python venv
 natago/*
+
+# remove python venv
+nagato/*
+
+# screenshots folder
+screenshots/*
