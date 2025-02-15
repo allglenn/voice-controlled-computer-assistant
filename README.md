@@ -131,7 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenAI for Whisper and GPT-4
 - The open-source community
 
----
 
 ## 📧 Contact
 
@@ -146,3 +145,4 @@ Glenn Allogho - Tech Innovator & Software Engineer
 
 Made with ❤️ by @allglenn
 
+---
