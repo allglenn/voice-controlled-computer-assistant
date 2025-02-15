@@ -51,9 +51,10 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 # Edit .env with your OpenAI API key and preferences
+```
 
 ## Usage 
-```
+
 1. Start Nagato:
 
 ```bash
