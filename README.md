@@ -36,27 +36,29 @@ cd voice-controlled-computer-assistant
 
 2. Create and activate a virtual environment:
 
-bash
+```bash
 python -m venv nagato-env
 source nagato-env/bin/activate  # On Windows: nagato-env\Scripts\activate
+```
 
 3. Install dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 4. Set up environment variables:
 
-bash
+```bash
 cp .env.example .env
 # Edit .env with your OpenAI API key and preferences
 
 ## Usage 
-
+```
 1. Start Nagato:
 
-bash
+```bash
 python main.py
+```
 
 2. Click anywhere on the interface to activate voice recognition
 3. Speak your command
@@ -123,13 +125,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author ✨
-
-**@allglenn**
-
-- GitHub: [@allglenn](https://github.com/allglenn)
-- 
 
 ## Acknowledgments 🙏
 
