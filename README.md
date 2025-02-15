@@ -4,6 +4,8 @@
 
 Nagato is a sophisticated voice-controlled computer assistant that uses OpenAI's Whisper for speech recognition and GPT-4 for natural language understanding. It provides a clean, Siri-like interface for controlling your computer through voice commands.
 
+
+![License: MIT](screen.png)
 ## Features ✨
 
 - 🎤 Real-time voice recognition using OpenAI Whisper
@@ -17,6 +19,11 @@ Nagato is a sophisticated voice-controlled computer assistant that uses OpenAI's
   - Pulsing standby indicator
   - Typing animation for responses
 - 🔄 Cross-platform support (macOS, Windows, Linux)
+
+## Architecture Diagram
+
+![License: MIT](archi.png)
+
 
 ## Installation 🚀
 
@@ -122,6 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **@allglenn**
 
 - GitHub: [@allglenn](https://github.com/allglenn)
+- 
 
 ## Acknowledgments 🙏
 
@@ -129,6 +137,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community
 
 ---
+
+## 📧 Contact
+
+Glenn Allogho - Tech Innovator & Software Engineer
+
+- 🌐 [Personal Website](https://glenn.allinsoftware.io/)
+- 📧 [glennfreelance365@gmail.com](mailto:glennfreelance365@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/glenn-allogho-94649688/)
+- 📝 [Medium](https://medium.com/@glennlenormand)
+- 🐦 [Twitter](https://x.com/glenn_all)
+- 💻 [GitHub](https://github.com/allglenn)
 
 Made with ❤️ by @allglenn
 
